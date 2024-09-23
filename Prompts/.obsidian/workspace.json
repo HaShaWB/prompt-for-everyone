@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brain-Science translator from PDF.md",
+                "file": "Translate/Brain-Science translator from PDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brain-Science translator from PDF.md",
+                "file": "Translate/Brain-Science translator from PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brain-Science translator from PDF.md",
+                "file": "Translate/Brain-Science translator from PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brain-Science translator from PDF.md"
+                "file": "Translate/Brain-Science translator from PDF.md"
               }
             }
           }
@@ -146,9 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "346dd14cff65df3e",
+  "active": "46c61024d4ea8ee9",
   "lastOpenFiles": [
-    "Brain-Science translator from PDF.md",
+    "Translate/Brain-Science translator from PDF.md",
     "Translate",
     "번역",
     "translate.md",
